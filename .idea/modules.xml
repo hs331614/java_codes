@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/String/String.iml" filepath="$PROJECT_DIR$/kunal kushwaha/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/arrays/arrays.iml" filepath="$PROJECT_DIR$/kunal kushwaha/arrays/arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/binary search/binary search.iml" filepath="$PROJECT_DIR$/kunal kushwaha/binary search/binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countnumb/countnumb.iml" filepath="$PROJECT_DIR$/countnumb/countnumb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crt/crt.iml" filepath="$PROJECT_DIR$/crt/crt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crt phase 2/crt phase 2.iml" filepath="$PROJECT_DIR$/crt phase 2/crt phase 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java codes.iml" filepath="$PROJECT_DIR$/.idea/java codes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/kunal kushwaha.iml" filepath="$PROJECT_DIR$/kunal kushwaha/kunal kushwaha.iml" />
+      <module fileurl="file://$PROJECT_DIR$/crt/leetcode questions/leetcode questions.iml" filepath="$PROJECT_DIR$/crt/leetcode questions/leetcode questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/linear search/linear search.iml" filepath="$PROJECT_DIR$/kunal kushwaha/linear search/linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/pattern/pattern.iml" filepath="$PROJECT_DIR$/kunal kushwaha/pattern/pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/recursion/recursion.iml" filepath="$PROJECT_DIR$/kunal kushwaha/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unew program/unew program.iml" filepath="$PROJECT_DIR$/unew program/unew program.iml" />
+    </modules>
+  </component>
+</project>
