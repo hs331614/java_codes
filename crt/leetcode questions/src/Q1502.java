@@ -1,7 +1,6 @@
-import java.util.Scanner;
-
-public class max_string {
+public class Q1502 {
     public static void main(String[] args) {
+        int[] arr={3,5,1};
 
     }
 }
