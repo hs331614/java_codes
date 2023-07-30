@@ -4,11 +4,14 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/OOPs/OOPs.iml" filepath="$PROJECT_DIR$/kunal kushwaha/OOPs/OOPs.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/String/String.iml" filepath="$PROJECT_DIR$/kunal kushwaha/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apna clg/apna clg.iml" filepath="$PROJECT_DIR$/apna clg/apna clg.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/arrays/arrays.iml" filepath="$PROJECT_DIR$/kunal kushwaha/arrays/arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/binary search/binary search.iml" filepath="$PROJECT_DIR$/kunal kushwaha/binary search/binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apna clg/bt/bt.iml" filepath="$PROJECT_DIR$/apna clg/bt/bt.iml" />
       <module fileurl="file://$PROJECT_DIR$/countnumb/countnumb.iml" filepath="$PROJECT_DIR$/countnumb/countnumb.iml" />
       <module fileurl="file://$PROJECT_DIR$/crt/crt.iml" filepath="$PROJECT_DIR$/crt/crt.iml" />
       <module fileurl="file://$PROJECT_DIR$/crt phase 2/crt phase 2.iml" filepath="$PROJECT_DIR$/crt phase 2/crt phase 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apna clg/hpq/hpq.iml" filepath="$PROJECT_DIR$/apna clg/hpq/hpq.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java codes.iml" filepath="$PROJECT_DIR$/.idea/java codes.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/kunal kushwaha.iml" filepath="$PROJECT_DIR$/kunal kushwaha/kunal kushwaha.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
@@ -17,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/linklist/linklist.iml" filepath="$PROJECT_DIR$/kunal kushwaha/linklist/linklist.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/pattern/pattern.iml" filepath="$PROJECT_DIR$/kunal kushwaha/pattern/pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/kunal kushwaha/recursion/recursion.iml" filepath="$PROJECT_DIR$/kunal kushwaha/recursion/recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apna clg/stack and queue/stack and queue.iml" filepath="$PROJECT_DIR$/apna clg/stack and queue/stack and queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/unew program/unew program.iml" filepath="$PROJECT_DIR$/unew program/unew program.iml" />
     </modules>
   </component>
